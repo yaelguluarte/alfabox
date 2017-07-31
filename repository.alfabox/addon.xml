@@ -1,0 +1,15 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.alfabox" name="AlfaBox" version="1.1.0" provider-name="AlfaMediaNetwork">
+	<extension point="xbmc.addon.repository" name="AlfaBox">
+		<info compressed="false">https://raw.githubusercontent.com/yaelguluarte/alfabox/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/yaelguluarte/alfabox/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/yaelguluarte/alfabox/master</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Repo de AlfaBox</summary>
+   		<description lang="en">Instala los Addons de Kodi recomendados para tu dispositivo AlfaBox.</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
